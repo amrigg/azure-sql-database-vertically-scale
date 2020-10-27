@@ -1,0 +1,20 @@
+{
+    "Author": "Joseph Idziorek",
+    "ContentSize": 3805,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-sql-database-vertically-scale/master/Set-AzureSqlDatabaseEdition.ps1",
+    "DownloadCount": 11166,
+    "Id": "Azure-SQL-Database-e957354f",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 40,
+    "RaterCount": 8,
+    "Rating": 4.8,
+    "ReleaseDate": "2014-11-16T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook enables one to vertically scale (up or down) an Azure SQL Database on a schedule using Azure Automation.",
+    "Title": "Azure SQL Database: Vertically Scale",
+    "UpdatedDate": "2015-2-28T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-sql-database-vertically-scale",
+    "UserTags": "Windows Azure SQL Database, Capacity Management, Dev / Test Environments"
+}
